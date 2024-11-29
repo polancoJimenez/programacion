@@ -16,3 +16,5 @@ NOTA ANTES DEL PARCIAL:
     /tipo variable
     /operacion
     /return
+
+-las clases principales van por fuera del main
